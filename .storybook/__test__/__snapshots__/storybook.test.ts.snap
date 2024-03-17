@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storybook Tests Button Default 1`] = `
+<div>
+  <button
+    class="ant-btn css-dev-only-do-not-override-1xg9z9n ant-btn-default !bg-white !text-primary-green !border-2 !border-primary-green  hover:opacity-80 !text-[17px] !font-bold undefined"
+    type="button"
+  >
+    <span>
+      Button
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storybook Tests Button Primary 1`] = `
+<div>
+  <button
+    class="ant-btn css-dev-only-do-not-override-1xg9z9n ant-btn-primary !bg-primary-green !text-white  hover:opacity-80 !text-[17px] !font-bold undefined"
+    type="button"
+  >
+    <span>
+      Button
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storybook Tests Input Primary 1`] = `
+<div>
+  <input
+    class="ant-input css-dev-only-do-not-override-1xg9z9n ant-input-outlined h-[48px] !text-cetacean-blue font-normal undefined"
+    placeholder="input something...."
+    type="text"
+    value=""
+  />
+</div>
+`;

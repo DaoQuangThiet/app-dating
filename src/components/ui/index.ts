@@ -1,0 +1,8 @@
+export { default as BottomNavigation } from './BottomNavigation'
+export { default as Button } from './Button'
+export { default as Footer } from './Footer'
+export { default as Header } from './Header'
+export { default as HeaderLogged } from './HeaderLogged'
+export { default as HeaderOnboard } from './HeaderOnboard'
+export { default as Input } from './Input'
+export { default as Modal } from './Modal'

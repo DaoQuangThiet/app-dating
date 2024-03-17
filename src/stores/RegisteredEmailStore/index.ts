@@ -1,0 +1,1 @@
+export { useRegisteredEmailStore } from './RegisteredEmailStore';
